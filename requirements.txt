@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+folium
+geopy
+shap
+joblib
+opencv-python
+sqlalchemy
+pytest
